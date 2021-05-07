@@ -7,6 +7,7 @@ int main() {
 	cin.tie(0);
 	char a = 'a';
 	char b = 'b';
+	// there are two arguments
 	// string(first argument, second argument)
 	// first argument = number of times the character will repeat
 	// second argument = the character itself
